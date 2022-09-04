@@ -6,10 +6,7 @@
 
 - 🔭 I’m currently working on [Hexoplanet](http://hexoplanet.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maxsigma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxsigma_" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxsigma&show_icons=true&locale=en&layout=compact" alt="maxsigma" /></p>
 
